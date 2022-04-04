@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    padding: 50px;
+    align-content: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    text-align: center;
+    color: blanchedalmond;
+    flex-wrap: wrap;
+
+}
+
